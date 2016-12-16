@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-iran
-najafabad
-15 khordad
-=======
-iran
->>>>>>> parent of c877cd1... najafabad
